@@ -1,5 +1,5 @@
-<?php
 #!/usr/local/bin/php
+<?php
 
 /*
  * OP_RETURN.php
